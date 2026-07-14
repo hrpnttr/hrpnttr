@@ -69,13 +69,12 @@ platforms for:
 
 ## 🚀 Featured Projects
 
-HRMS Platform
+- HRMS Platform
+- Career Site
+- Barber Management
+- LMS
 
-Career Site
-
-Barber Management
-
-LMS
+##
 
 Thanks for visiting!
 
