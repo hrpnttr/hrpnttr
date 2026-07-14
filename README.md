@@ -82,10 +82,11 @@ Laravel • NestJS • React • TypeScript • MySQL • REST API
 A modern recruitment platform integrated with an Applicant Tracking System (ATS).
 
 **Clients**
-- 🛒 **Super Indo** → https://...
-- 💪 **FIT HUB** → https://...
-- 🏭 **Taekwang** → https://...
-- 🏥 **Mitra Keluarga** → https://...
+- **Super Indo** → https://superindo.jobseeker.software/
+- **FIT HUB** → https://fithub.jobseeker.software/
+- **Taekwang** → https://tkg.jobseeker.software/
+- **Mitra Keluarga** → https://karier.mitrakeluarga.com/
+- **Paramount Land** → https://career-paramount.jobseeker.software/
 
 **Highlights**
 - Candidate registration
