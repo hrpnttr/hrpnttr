@@ -40,19 +40,15 @@ I'm a Fullstack Developer with experience building enterprise HRMS and Career Si
 
 ## 🚀 Specializing In
 
-Enterprise HRMS
-
-Career Site Platform
-
-REST API
-
-Modern Frontend
-
-Database Design
+- Enterprise HRMS
+- Career Site Platform
+- REST API
+- Modern Frontend
+- Database Design
 
 ## 💼 Professional Experience
 
-Jobseeker Indonesia
+Jobseeker
 
 Fullstack Developer
 
