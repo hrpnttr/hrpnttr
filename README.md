@@ -48,15 +48,19 @@ I'm a Fullstack Developer with experience building enterprise HRMS and Career Si
 
 ## 💼 Professional Experience
 
-Jobseeker
+### Fullstack Developer — Jobseeker
+**Sep 2024 – Present**
 
-Fullstack Developer
+Developing enterprise HRMS and Career Site platforms used by multiple companies.
 
-September 2024 — Present
+**Responsibilities**
+- Build scalable REST APIs using Laravel & NestJS
+- Develop responsive admin dashboards with React & Next.js
+- Optimize SQL queries and backend performance
+- Integrate third-party APIs and authentication
+- Collaborate with QA, Product, and UI/UX teams
 
-Building enterprise HRMS and Career Site
-platforms for:
-
+**Clients**
 - Super Indo
 - FIT HUB
 - Paramount Land
@@ -65,10 +69,50 @@ platforms for:
 
 ## 🚀 Featured Projects
 
-- HRMS Platform
-- Career Site
-- Barber Management
-- LMS
+### 🏢 HRMS Platform
+Enterprise Human Resource Management System designed to streamline employee management, attendance, recruitment, leave requests, payroll, and organizational workflows for enterprise clients.
+
+**Tech**  
+Laravel • NestJS • React • TypeScript • MySQL • REST API
+
+---
+
+### 🌐 Career Site Platform
+A modern recruitment platform integrated with an Applicant Tracking System (ATS), enabling job publishing, candidate applications, profile management, document uploads, and recruitment workflows.
+
+**Live Implementations**
+- **Super Indo** – [Visit Career Site](https://superindo.jobseeker.software/)
+- **FIT HUB** – [Visit Career Site](https://fithub.jobseeker.software/)
+- **Taekwang** – [Visit Career Site](https://tkg.jobseeker.software/)
+- **Mitra Keluarga** – [Visit Career Site](https://karier.mitrakeluarga.com/)
+- **Paramount Land** - [Visit Career Site](https://career-paramount.jobseeker.software/)
+
+**Tech**  
+Laravel • React • JavaScript • MySQL • REST API
+
+---
+
+### 💈 Barber Management System
+A web-based management system for barber shops featuring appointment scheduling, customer management, service tracking, employee management, and sales reporting.
+
+**Tech**  
+Laravel • React • Tailwind CSS • MySQL
+
+---
+
+### 🎓 Learning Management System (LMS)
+An online learning platform that allows instructors to manage courses, lessons, assignments, and student progress through an intuitive web interface.
+
+**Tech**  
+Laravel • React • MySQL • REST API
+
+---
+
+### 🩺 Diabetes Expert System
+A rule-based expert system that helps identify potential diabetes conditions based on user symptoms using forward-chaining inference techniques.
+
+**Tech**  
+PHP • MySQL • JavaScript
 
 ##
 
