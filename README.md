@@ -7,7 +7,7 @@ Hi 👋, I'm Farid
 </h1>
 
 <h3 align="center">
-Fullstack Developer from Indonesia 🇮🇩
+Building enterprise HRMS, ATS, and scalable web applications with Laravel, NestJS, React & Next.js
 </h3>
 
 <p align="center">
@@ -38,7 +38,7 @@ I'm a Fullstack Developer with experience building enterprise HRMS and Career Si
 - 💡 Interested in Laravel, NestJS, React, Next.js, TypeScript
 - 📍 Bali, Indonesia
 
-🚀 Specializing In
+## 🚀 Specializing In
 
 Enterprise HRMS
 
@@ -50,7 +50,7 @@ Modern Frontend
 
 Database Design
 
-💼 Professional Experience
+## 💼 Professional Experience
 
 Jobseeker Indonesia
 
@@ -61,13 +61,13 @@ September 2024 — Present
 Building enterprise HRMS and Career Site
 platforms for:
 
-Super Indo
-FIT HUB
-Paramount Land
-Taekwang
-Mitra Keluarga
+- Super Indo
+- FIT HUB
+- Paramount Land
+- Taekwang
+- Mitra Keluarga
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 HRMS Platform
 
