@@ -77,18 +77,25 @@ Laravel • NestJS • React • TypeScript • MySQL • REST API
 
 ---
 
-### 🌐 Career Site Platform
-A modern recruitment platform integrated with an Applicant Tracking System (ATS), enabling job publishing, candidate applications, profile management, document uploads, and recruitment workflows.
+### 🌐 Career Site Platform *(Professional Project)*
 
-**Live Implementations**
-- **Super Indo** – [Visit Career Site](https://superindo.jobseeker.software/)
-- **FIT HUB** – [Visit Career Site](https://fithub.jobseeker.software/)
-- **Taekwang** – [Visit Career Site](https://tkg.jobseeker.software/)
-- **Mitra Keluarga** – [Visit Career Site](https://karier.mitrakeluarga.com/)
-- **Paramount Land** - [Visit Career Site](https://career-paramount.jobseeker.software/)
+A modern recruitment platform integrated with an Applicant Tracking System (ATS).
 
-**Tech**  
-Laravel • React • JavaScript • MySQL • REST API
+**Clients**
+- 🛒 **Super Indo** → https://...
+- 💪 **FIT HUB** → https://...
+- 🏭 **Taekwang** → https://...
+- 🏥 **Mitra Keluarga** → https://...
+
+**Highlights**
+- Candidate registration
+- Job application workflow
+- ATS integration
+- Document management
+- Email notifications
+
+**Tech**
+Laravel • React • REST API • MySQL
 
 ---
 
