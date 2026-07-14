@@ -1,3 +1,7 @@
+<p align="center">
+<img width="100%" src="./asset/banner.png"/>
+</p>
+
 <h1 align="center">
 Hi 👋, I'm Farid
 </h1>
@@ -7,34 +11,19 @@ Fullstack Developer from Indonesia 🇮🇩
 </h3>
 
 <p align="center">
-Fullstack Developer focused on building scalable enterprise web applications and recruitment platforms.
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=FACC15&center=true&vCenter=true&width=950&lines=Fullstack+Developer;Building+HRMS+%26+Career+Site+Platforms;Laravel+%7C+React.js+%7C+Next.js;Node.js+%7C+NestJS+%7C+TypeScript;REST+API+Integration+%26+System+Architecture;Always+Learning+New+Technologies"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=FACC15&text=Farid&fontColor=111827&fontSize=60&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Laravel%20%7C%20React.js%20%7C%20Next.js&descAlignY=60"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=800&color=FACC15&center=true&vCenter=true&width=900&lines=Building+Scalable+HRMS+Platforms;Fullstack+Developer+(Laravel+%2B+React);REST+API+%26+Microservices;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
 <a href="https://portofarid.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/hrpnttr">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://www.linkedin.com/in/aditya-farid-riyan-wijaya-46b2a924b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
+<a href="mailto:adityariyan367@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
@@ -49,12 +38,45 @@ I'm a Fullstack Developer with experience building enterprise HRMS and Career Si
 - 💡 Interested in Laravel, NestJS, React, Next.js, TypeScript
 - 📍 Bali, Indonesia
 
-## 📊 Quick Summary
+🚀 Specializing In
 
-| 💼 Role | 🏢 Current Company | 🚀 Specialization |
-|---------|--------------------|-------------------|
-| Fullstack Developer | Jobseeker | Enterprise HRMS & Career Site |
+Enterprise HRMS
 
-| 💻 Frontend | ⚙️ Backend | 🗄️ Database |
-|-------------|------------|-------------|
-| React.js • Next.js • TypeScript | Laravel • Node.js • NestJS | MySQL • PostgreSQL |
+Career Site Platform
+
+REST API
+
+Modern Frontend
+
+Database Design
+
+💼 Professional Experience
+
+Jobseeker Indonesia
+
+Fullstack Developer
+
+September 2024 — Present
+
+Building enterprise HRMS and Career Site
+platforms for:
+
+Super Indo
+FIT HUB
+Paramount Land
+Taekwang
+Mitra Keluarga
+
+🚀 Featured Projects
+
+HRMS Platform
+
+Career Site
+
+Barber Management
+
+LMS
+
+Thanks for visiting!
+
+Let's build something awesome together.
