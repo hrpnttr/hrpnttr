@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100%" src="./asset/banner.png"/>
+  <img src="./assets/banner.png" alt="Farid Banner" width="100%" />
 </p>
 
 <h1 align="center">
