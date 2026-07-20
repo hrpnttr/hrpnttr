@@ -106,6 +106,9 @@ A web-based management system for barber shops featuring appointment scheduling,
 **Tech**  
 Laravel • React • Tailwind CSS • MySQL
 
+**Live App**
+https://maskot-barbershop.vercel.app/
+
 ---
 
 ### 🎓 Learning Management System (LMS)
