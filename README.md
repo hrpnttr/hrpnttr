@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Farid Banner" width="100%" />
+  <img src="./assets/agent-console-11d8928f-dark.svg" alt="Farid Banner" width="100%" />
 </p>
 
 <h1 align="center">
