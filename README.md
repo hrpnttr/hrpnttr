@@ -40,13 +40,23 @@ Currently, I work at Jobseeker, contributing to enterprise HRMS and Career Site 
 
 ## 🚀 Featured Projects
 
-### 🏢 HRMS Platform
-Enterprise Human Resource Management System supporting employee management, attendance, recruitment, leave requests, payroll, and organizational workflows for enterprise organizations.
+### 🏢 ATS & Recruitment Platform
+
+Enterprise recruitment platform designed to manage candidate pipelines, job vacancies, applications, recruitment workflows, and hiring processes.
+
+**Key Features**
+- Candidate registration and profile management
+- Job vacancy and position management
+- Candidate application and recruitment workflows
+- Candidate search, filtering, and screening
+- Resume and document management
+- Candidate pipeline and application status tracking
+- Authentication, authorization, and role-based access
+- RESTful API integrations
+- Multi-tenant recruitment workflows
 
 **Tech**  
 Laravel • NestJS • React • TypeScript • MySQL • REST API
-
-> These are professional projects I contributed to while working at Jobseeker. Source code and internal implementation details are proprietary.
 
 ---
 
@@ -63,8 +73,6 @@ A modern recruitment platform integrated with an Applicant Tracking System (ATS)
   
 **Tech**
 Laravel • React • REST API • MySQL
-
-> These are professional projects I contributed to while working at Jobseeker. Source code and internal implementation details are proprietary.
 
 ---
 
@@ -86,12 +94,16 @@ Laravel • React • MySQL • REST API
 
 ---
 
+> These are professional projects I contributed to while working at Jobseeker. Source code and internal implementation details are proprietary.
+
+---
+
 ## 💼 Professional Experience
 
 ### Fullstack Developer - Jobseeker
 **Sep 2024 - Present**
 
-Contribute to the development and maintenance of enterprise HRMS and recruitment applications, working across backend services, frontend applications, APIs, databases, and production support.
+Contribute across backend services, frontend applications, APIs, databases, integrations, and production support for enterprise web applications.
 
 **Key Contributions**
 - Develop and maintain production web applications using Laravel, React.js, TypeScript, and MySQL
