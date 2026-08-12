@@ -23,12 +23,12 @@ My work spans backend services, modern frontend applications, database-driven wo
 Currently, I work at Jobseeker, contributing to enterprise HRMS and Career Site platforms.
 
 - 💼 Fullstack Developer at Jobseeker
-- 🌱 Currently building HRMS & Career Site platforms
+- 🌱 Experienced in API integration, authentication, and database-driven applications
 - 🚀 Passionate about scalable backend architecture and modern frontend development
 - 💡 Interested in Laravel, NestJS, React, Next.js, TypeScript
 - 📍 Bali, Indonesia
 
-## 🚀 What I Do
+## 🛠️ What I Do
 
 - Build and maintain enterprise HRMS and recruitment platforms
 - Design and integrate RESTful APIs and backend services
@@ -52,7 +52,7 @@ Enterprise recruitment platform supporting candidate management, job vacancies, 
 - Resume and document management
 - Candidate pipeline and application status tracking
 - Authentication, authorization, and role-based access
-- RESTful APIs integrations
+- REST API integrations
 - Multi-tenant recruitment workflows
 
 **Tech**  
