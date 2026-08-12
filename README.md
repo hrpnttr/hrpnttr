@@ -16,7 +16,11 @@ Fullstack Developer | Laravel · NestJS · React · Next.js · TypeScript
 
 ## 👨‍💻 About Me
 
-I'm a Fullstack Developer with experience building enterprise HRMS and Career Site platforms. I enjoy creating scalable backend services, modern frontend interfaces, and solving real-world business problems through clean and maintainable code.
+I'm a Fullstack Developer with 3+ years of experience building and maintaining web applications, enterprise HRMS platforms, recruitment systems, and RESTful APIs.
+
+My work spans backend services, modern frontend applications, database-driven workflows, authentication, system integrations, and production troubleshooting.
+
+Currently, I work at Jobseeker, contributing to enterprise HRMS and Career Site platforms.
 
 - 💼 Fullstack Developer at Jobseeker
 - 🌱 Currently building HRMS & Career Site platforms
@@ -37,10 +41,12 @@ I'm a Fullstack Developer with experience building enterprise HRMS and Career Si
 ## 🚀 Featured Projects
 
 ### 🏢 HRMS Platform
-Enterprise Human Resource Management System designed to streamline employee management, attendance, recruitment, leave requests, payroll, and organizational workflows for enterprise clients.
+Enterprise Human Resource Management System supporting employee management, attendance, recruitment, leave requests, payroll, and organizational workflows for enterprise organizations.
 
 **Tech**  
 Laravel • NestJS • React • TypeScript • MySQL • REST API
+
+> These are professional projects I contributed to while working at Jobseeker. Source code and internal implementation details are proprietary.
 
 ---
 
@@ -48,22 +54,17 @@ Laravel • NestJS • React • TypeScript • MySQL • REST API
 
 A modern recruitment platform integrated with an Applicant Tracking System (ATS).
 
-**Clients**
-- **Super Indo** → https://superindo.jobseeker.software/
-- **FIT HUB** → https://fithub.jobseeker.software/
-- **Taekwang** → https://tkg.jobseeker.software/
-- **Mitra Keluarga** → https://karier.mitrakeluarga.com/
-- **Paramount Land** → https://career-paramount.jobseeker.software/
-
-**Highlights**
+**Key Features**
 - Candidate registration
-- Job application workflow
+- Job discovery and application
 - ATS integration
-- Document management
-- Email notifications
-
+- Candidate profile and document management
+- Application notifications
+  
 **Tech**
 Laravel • React • REST API • MySQL
+
+> These are professional projects I contributed to while working at Jobseeker. Source code and internal implementation details are proprietary.
 
 ---
 
@@ -85,36 +86,29 @@ Laravel • React • MySQL • REST API
 
 ---
 
-### 🩺 Diabetes Expert System
-A rule-based expert system that helps identify potential diabetes conditions based on user symptoms using forward-chaining inference techniques.
-
-**Tech**  
-PHP • MySQL • JavaScript
-
-##
-
 ## 💼 Professional Experience
 
 ### Fullstack Developer - Jobseeker
 **Sep 2024 - Present**
 
-Working on enterprise HRMS and recruitment platforms, contributing across frontend, backend, API integration, database workflows, and production support.
+Contribute to the development and maintenance of enterprise HRMS and recruitment applications, working across backend services, frontend applications, APIs, databases, and production support.
 
-**Responsibilities**
-- Develop production web applications using Laravel, React.js, TypeScript, and MySQL
-- Build and integrate RESTful APIs for recruitment and HR workflows
-- Implement authentication, validation, and database-driven business logic
-- Develop responsive interfaces using React.js and Next.js
-- Troubleshoot frontend, backend, API, database, and production issues
-- Collaborate with Product and QA teams within Agile development cycles
+**Key Contributions**
+- Develop and maintain production web applications using Laravel, React.js, TypeScript, and MySQL
+- Build and integrate RESTful APIs supporting recruitment and HR workflows
+- Implement authentication, authorization, validation, and database-driven business logic
+- Develop responsive frontend interfaces using React.js and Next.js
+- Integrate frontend applications with backend services and third-party systems
+- Diagnose and resolve frontend, backend, API, database, and production issues
+- Collaborate with Product, QA, and engineering teams within Agile development cycles
 - Support testing, deployment, and post-release production activities
 
-**Clients**
-- Super Indo
+**Platforms I've Contributed To**
+- Superindo
 - FIT HUB
-- Paramount Land
 - Taekwang
 - Mitra Keluarga
+- Paramount Land
 
 ## Tech Stack
 
