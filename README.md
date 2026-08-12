@@ -42,7 +42,7 @@ Currently, I work at Jobseeker, contributing to enterprise HRMS and Career Site 
 
 ### 🏢 ATS & Recruitment Platform
 
-Enterprise recruitment platform designed to manage candidate pipelines, job vacancies, applications, recruitment workflows, and hiring processes.
+Enterprise recruitment platform supporting candidate management, job vacancies, applications, recruitment workflows, and end-to-end hiring processes.
 
 **Key Features**
 - Candidate registration and profile management
@@ -52,11 +52,11 @@ Enterprise recruitment platform designed to manage candidate pipelines, job vaca
 - Resume and document management
 - Candidate pipeline and application status tracking
 - Authentication, authorization, and role-based access
-- RESTful API integrations
+- RESTful APIs integrations
 - Multi-tenant recruitment workflows
 
 **Tech**  
-Laravel • NestJS • React • TypeScript • MySQL • REST API
+Laravel • NestJS • React • TypeScript • MySQL • REST APIs
 
 ---
 
@@ -72,8 +72,10 @@ A modern recruitment platform integrated with an Applicant Tracking System (ATS)
 - Application notifications
   
 **Tech**
-Laravel • React • REST API • MySQL
+Laravel • React • REST APIs • MySQL
 
+---
+> These are professional projects I contributed to while working at Jobseeker. Source code and internal implementation details are proprietary.
 ---
 
 ### 💈 Barber Management System
@@ -90,11 +92,7 @@ Laravel • React • Tailwind CSS • MySQL
 An online learning platform that allows instructors to manage courses, lessons, assignments, and student progress through an intuitive web interface.
 
 **Tech**  
-Laravel • React • MySQL • REST API
-
----
-
-> These are professional projects I contributed to while working at Jobseeker. Source code and internal implementation details are proprietary.
+Laravel • React • MySQL • REST APIs
 
 ---
 
@@ -111,7 +109,7 @@ Contribute across backend services, frontend applications, APIs, databases, inte
 - Implement authentication, authorization, validation, and database-driven business logic
 - Develop responsive frontend interfaces using React.js and Next.js
 - Integrate frontend applications with backend services and third-party systems
-- Diagnose and resolve frontend, backend, API, database, and production issues
+- Diagnose and resolve frontend, backend, APIs, database, and production issues
 - Collaborate with Product, QA, and engineering teams within Agile development cycles
 - Support testing, deployment, and post-release production activities
 
