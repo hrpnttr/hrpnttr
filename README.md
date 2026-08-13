@@ -40,7 +40,7 @@ Currently, I work at Jobseeker, contributing to enterprise HRMS and Career Site 
 
 ## 🚀 Featured Projects
 
-### 🏢 ATS & Recruitment Platform
+### 🏢 ATS & Recruitment Platform *(Professional Project)*
 
 Enterprise recruitment platform supporting candidate management, job vacancies, applications, recruitment workflows, and end-to-end hiring processes.
 
@@ -75,8 +75,6 @@ A modern recruitment platform integrated with an Applicant Tracking System (ATS)
 Laravel • React • REST APIs • MySQL
 
 ---
-> These are professional projects I contributed to while working at Jobseeker. Source code and internal implementation details are proprietary.
----
 
 ### 💈 Barber Management System
 A web-based management system for barber shops featuring appointment scheduling, customer management, service tracking, employee management, and sales reporting.
@@ -99,7 +97,7 @@ Laravel • React • MySQL • REST APIs
 ## 💼 Professional Experience
 
 ### Fullstack Developer - Jobseeker
-**Sep 2024 - Present**
+**September 2024 - Present**
 
 Contribute across backend services, frontend applications, APIs, databases, integrations, and production support for enterprise web applications.
 
@@ -109,7 +107,7 @@ Contribute across backend services, frontend applications, APIs, databases, inte
 - Implement authentication, authorization, validation, and database-driven business logic
 - Develop responsive frontend interfaces using React.js and Next.js
 - Integrate frontend applications with backend services and third-party systems
-- Diagnose and resolve frontend, backend, APIs, database, and production issues
+- Diagnose and resolve issues across frontend applications, backend services, APIs, databases, and production environments
 - Collaborate with Product, QA, and engineering teams within Agile development cycles
 - Support testing, deployment, and post-release production activities
 
